@@ -157,10 +157,6 @@ int main()
 
     std::cout << jack;
 
-     
-
-
-
     return 0;
 }
 
